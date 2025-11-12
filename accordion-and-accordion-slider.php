@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Accordion and Accordion Slider
- * Plugin URI: https://www.essentialplugin.com/wordpress-plugin/accordion-accordion-slider/
+ * Plugin URI: https://essentialplugin.com/wordpress-plugin/accordion-accordion-slider/
  * Description: Accordion and Accordion Slider (Horizontal and Vertical) - Responsive and Touch enabled accordion for WordPress Website. Also work with Gutenberg shortcode block. 
  * Author: Essential Plugin
  * Text Domain: accordion-and-accordion-slider
  * Domain Path: /languages/
- * Version: 1.4.3
- * Author URI: https://www.essentialplugin.com
+ * Version: 1.4.4
+ * Author URI: https://essentialplugin.com
  *
  * @package Accordion and Accordion Slider
  * @author Essential Plugin
@@ -17,8 +17,8 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
 }
 
-if( ! defined( 'WP_AAS_VERSION' ) ) {
-	define( 'WP_AAS_VERSION', '1.4.3' ); // Version of plugin
+if ( ! defined( 'WP_AAS_VERSION' ) ) {
+	define( 'WP_AAS_VERSION', '1.4.4' ); // Version of plugin
 }
 
 if( ! defined( 'WP_AAS_DIR' ) ) {
@@ -38,15 +38,15 @@ if( ! defined( 'WP_AAS_META_PREFIX' ) ) {
 }
 
 if( ! defined( 'WP_AAS_PLUGIN_BUNDLE_LINK' ) ) {
-    define('WP_AAS_PLUGIN_BUNDLE_LINK','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Welcome-Screen'); // Plugin link
+    define('WP_AAS_PLUGIN_BUNDLE_LINK','https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Welcome-Screen'); // Plugin link
 }
 
 if( ! defined( 'WP_AAS_PLUGIN_LINK_UNLOCK' ) ) {
-    define('WP_AAS_PLUGIN_LINK_UNLOCK','https://www.essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Features-PRO'); // Plugin link
+    define('WP_AAS_PLUGIN_LINK_UNLOCK','https://essentialplugin.com/essential-plugin-bundle-pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Features-PRO'); // Plugin link
 }
 
 if( ! defined( 'WP_AAS_PLUGIN_LINK_UPGRADE' ) ) {
-    define('WP_AAS_PLUGIN_LINK_UPGRADE','https://www.essentialplugin.com/pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Upgrade-PRO'); // Plugin Check link
+    define('WP_AAS_PLUGIN_LINK_UPGRADE','https://essentialplugin.com/pricing/?utm_source=WP&utm_medium=Accordion-Slider&utm_campaign=Upgrade-PRO'); // Plugin Check link
 }
 
 /**
