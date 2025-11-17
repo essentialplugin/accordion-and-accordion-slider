@@ -6,7 +6,7 @@
  * Author: Essential Plugin
  * Text Domain: accordion-and-accordion-slider
  * Domain Path: /languages/
- * Version: 1.4.4
+ * Version: 1.4.5
  * Author URI: https://essentialplugin.com
  *
  * @package Accordion and Accordion Slider
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if ( ! defined( 'WP_AAS_VERSION' ) ) {
-	define( 'WP_AAS_VERSION', '1.4.4' ); // Version of plugin
+	define( 'WP_AAS_VERSION', '1.4.5' ); // Version of plugin
 }
 
 if( ! defined( 'WP_AAS_DIR' ) ) {
